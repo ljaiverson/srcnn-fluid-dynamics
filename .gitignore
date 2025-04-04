@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# dataset/model
+data/raw/
+new_data/
+mantaflow/
+stats/
+logging/
+models/trained_models/
+
 # C extensions
 *.so
 
