@@ -1,7 +1,12 @@
 # srcnn-fluid-dynamics
 This repo contains the code for the implementation of Super Resolution CNN for fluid dynamics. Fluid dynamics simulations are computationally expensive and require significant storage. To address these challenges, we use deep learning techniques to reconstruct high-fidelity simulations from coarse-grained data. 
 
-My primary responsibility in this project was implementing spatial super-resolution using the Super-Resolution Convolutional Neural Network (SRCNN). The goal was to enhance the spatial resolution of low-resolution simulation data, enabling efficient compression and reconstruction of fluid dynamics simulations.
+This repo implements spatial super-resolution using the Super-Resolution Convolutional Neural Network (SRCNN). The goal was to enhance the spatial resolution of low-resolution simulation data, enabling efficient compression and reconstruction of fluid dynamics simulations.
+
+## Example Super-Resolution Results
+
+![Super-resolution](imgs/superres.png)
+
 
 ## Spatial Super-Resolution with SRCNN
 
